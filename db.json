@@ -5,6 +5,12 @@
             "name": "Husky Dragon",
             "description": "The husky dragon is known in the Appalachia for its evil ways.",
             "image": "https://d.furaffinity.net/art/biohazardia/1540358125/1540358125.biohazardia_design_-_husky.png"
+        },
+        {
+            "id": 2,
+            "name": "Beagle Dragon",
+            "description": "The beagle dragon is a cheeky creature. They run and hide and hard to catch.",
+            "image": "https://raw.githubusercontent.com/hpieris/mock-rest-api/master/assets/beagle-dragon.png"
         }
     ]
 }
